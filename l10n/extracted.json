@@ -1,0 +1,128 @@
+{
+  "items": [
+    {
+      "type": "single",
+      "entry": "Welcome to React",
+      "occurences": [
+        "src/App.js:26:16"
+      ],
+      "comments": []
+    },
+    {
+      "type": "single",
+      "entry": "To get started, edit `src/App.js` and save to reload.",
+      "occurences": [
+        "src/App.js:29:28"
+      ],
+      "comments": []
+    },
+    {
+      "type": "single",
+      "entry": "Add new sample block!",
+      "occurences": [
+        "src/App.js:32:53"
+      ],
+      "comments": []
+    },
+    {
+      "type": "plural",
+      "entry": [
+        "Now we have %% component on page!",
+        "Now we have %% components on page!"
+      ],
+      "occurences": [
+        "src/App.js:33:17"
+      ],
+      "translations": [],
+      "comments": []
+    },
+    {
+      "type": "single",
+      "entry": "Sample component: %1",
+      "occurences": [
+        "src/Sample.js:11:16"
+      ],
+      "comments": []
+    },
+    {
+      "type": "single",
+      "entry": "You can place as many sample components on the page as you wish.",
+      "occurences": [
+        "src/Sample.js:14:12"
+      ],
+      "comments": []
+    },
+    {
+      "type": "single",
+      "entry": "John",
+      "context": "Random titles",
+      "occurences": [
+        "src/utils.js:17:3"
+      ],
+      "comments": []
+    },
+    {
+      "type": "single",
+      "entry": "Mary",
+      "context": "Random titles",
+      "occurences": [
+        "src/utils.js:18:3"
+      ],
+      "comments": []
+    },
+    {
+      "type": "single",
+      "entry": "Bob",
+      "context": "Random titles",
+      "occurences": [
+        "src/utils.js:19:3"
+      ],
+      "comments": []
+    },
+    {
+      "type": "single",
+      "entry": "Alice",
+      "context": "Random titles",
+      "occurences": [
+        "src/utils.js:20:3"
+      ],
+      "comments": []
+    },
+    {
+      "type": "single",
+      "entry": "Charlie",
+      "context": "Random titles",
+      "occurences": [
+        "src/utils.js:21:3"
+      ],
+      "comments": []
+    },
+    {
+      "type": "single",
+      "entry": "Kate",
+      "context": "Random titles",
+      "occurences": [
+        "src/utils.js:22:3"
+      ],
+      "comments": []
+    },
+    {
+      "type": "single",
+      "entry": "Lynn",
+      "context": "Random titles",
+      "occurences": [
+        "src/utils.js:23:3"
+      ],
+      "comments": []
+    },
+    {
+      "type": "single",
+      "entry": "Bill",
+      "context": "Random titles",
+      "occurences": [
+        "src/utils.js:24:3"
+      ],
+      "comments": []
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+.Sample {
+  display: inline-block;
+  margin: 3px;
+  border: 1px solid #555;
+  text-align: center;
+}
+
+.Sample-header {
+  background-color: #222;
+  height: 30px;
+  padding: 20px;
+  color: white;
+}
+
+.Sample-body {
+  font-size: large;
+}
